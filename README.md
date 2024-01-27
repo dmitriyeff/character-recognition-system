@@ -1,0 +1,1 @@
+Neural network that evaluates the MNIST dataset
