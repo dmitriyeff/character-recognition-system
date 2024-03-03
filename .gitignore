@@ -1,3 +1,6 @@
 # ignore downloaded data from MNIST
 data
 .venv
+
+# ignore the model weights
+weights.pth
