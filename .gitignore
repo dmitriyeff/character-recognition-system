@@ -3,4 +3,4 @@ data
 .venv
 
 # ignore the model weights
-weights.pth
+best_model.pth
